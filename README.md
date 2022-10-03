@@ -4,10 +4,10 @@ Im originaly from South Africa but I now live in Vienna, Austria. I enjoy workin
 I'm currently working on becoming a Data Analyst using python and in my spare time learning React.
 
 ## Skills: 
--Javascript
--HTML
--CSS
--Python
+- Javascript
+- HTML
+- CSS
+- Python
 
 Contact Me: zwaneldm@gmail.com
 
