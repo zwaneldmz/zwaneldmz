@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Lwando Zwane.
 
-Im originaly from South Africa but I now live in Vienna, Austria. I recently completed a Bachalors in Information Technology. I enjoy working on projects in JavaScript for web development. I'm currently working on becoming a Data Analyst using python and in my spare time learning React.
+Im originaly from South Africa but I now live in Vienna, Austria. I recently completed a Bachalors in Information Technology. I enjoy working on projects in JavaScript. I'm currently working on becoming a Data Analyst using and in my spare time learning React.
 
 ## Skills: 
 - Javascript
